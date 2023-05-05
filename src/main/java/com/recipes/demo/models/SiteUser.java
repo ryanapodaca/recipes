@@ -16,7 +16,7 @@ public class SiteUser {
 
     protected SiteUser (){}
 
-    public siteUser(String userName, String password) {
+    public SiteUser(String userName, String password) {
         this.userName = userName;
         this.password = password;
     }
